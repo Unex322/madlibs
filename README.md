@@ -1,0 +1,3 @@
+# madlibs
+Mad Libs is a word game with a phrase pattern created by Leonard Stern and Roger Price
+Mad Libs are a fun way to teach children (and not only!) the basics of grammar, reinforce the use of nouns, verbs, etc., and can also be used to expand their vocabulary. The essence of the game: The "reader" chooses a story in which some words are missing. Insert a noun, a verb or another word to be inserted - and fill in the gaps in the text with them.  When the "reader" then reads the resulting text, we learn that we have written a fantastic, funny or simply ridiculous story - it all depends on the words we insert.
